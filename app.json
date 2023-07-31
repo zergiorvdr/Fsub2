@@ -1,5 +1,5 @@
 {
-  "name": "File Sharing",
+  "name": "Zer-FileSharing",
   "description": "BOT Multi Force Subs File Sharing Bot berguna untuk menyimpan file dan dapat diakses melalui link khusus",
   "keywords": [
     "telegram",
@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://github.com/zergiorvdr/Fsub2",
-  "logo": "https://telegra.ph/file/5e6bf2962ce5004f141cc.jpg",
+  "logo": "https://telegra.ph/file/061bff619ab15a6a2b132.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
@@ -15,7 +15,7 @@
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "PakkPoll"
+      "value": "jancookkk"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
