@@ -6,7 +6,7 @@ Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bu
 
 ##
 
-**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@ZERSUPPORT_BOT_TELEGRAM](https://www.telegram.dog/MUTUALAN_CARI_TEMAN_VIRTUAL)**
+**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@MUTUALAN_CARI_TEMAN_VIRTUAL](https://www.telegram.dog/MUTUALAN_CARI_TEMAN_VIRTUAL)**
 
 ### Features
 - Sepenuhnya dapat dicustom.
